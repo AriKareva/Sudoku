@@ -22,7 +22,7 @@ cd ~/Desktop/
 mkdir SudokuGame && cd $_
 
 3.2 Клонируем репозиторий рамуса данной командой
-git clone 
+git clone https://github.com/AriKareva/Sudoku
 
 3.3 Заходим в папку
 
